@@ -1,0 +1,28 @@
+_repo: The-Tryal-of-William-Penn--amp--William-Mead-for-Causing-a-Tumult--13-at-the-Sessions-Held-at-__7360
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Seitz, Don Carlos
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '2441'
+    url: http://www.gutenberg.org/2009/agents/2441
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Penn, William, 1644-1718 -- Trials, litigation, etc.'
+- !lcc 'KD'
+- !lcsh 'Freedom of speech -- England'
+- !lcsh 'Assembly, Right of -- England'
+- !lcsh 'Mead, William, 1628-1713 -- Trials, litigation, etc.'
+- GITenberg
+title: "The Tryal of William Penn & William Mead for Causing a Tumult\r\nat the Sessions\
+  \ Held at the Old Bailey in London the 1st, 3d, 4th, and 5th of September 1670"
+url: http://www.gutenberg.org/ebooks/7360
